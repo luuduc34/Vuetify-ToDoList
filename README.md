@@ -3,7 +3,7 @@ A TodoList with Vuetify
 
 ## Language and tech used
 
-HTML, CSS, Spline
+VueJs, Vuetify
 
 ## Link to the app
 
